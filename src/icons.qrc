@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="lsaero-16.png">../icons/lsaero-16.png</file>
+        <file alias="lsaero-32.png">../icons/lsaero-32.png</file>
+        <file alias="lsaero-48.png">../icons/lsaero-48.png</file>
+        <file alias="lsaero-64.png">../icons/lsaero-64.png</file>
+        <file alias="lsaero-256.png">../icons/lsaero-256.png</file>
+        <file alias="tran-16.png">../icons/tran-16.png</file>
+        <file alias="tran-32.png">../icons/tran-32.png</file>
+        <file alias="tran-48.png">../icons/tran-48.png</file>
+    </qresource>
+</RCC>
